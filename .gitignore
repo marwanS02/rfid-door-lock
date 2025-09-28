@@ -39,3 +39,16 @@
 
 # debug information files
 *.dwo
+
+# Arduino
+*.hex
+*.elf
+*.bin
+*.dfu
+*.eep
+*.map
+*.d
+*.o
+.build*/
+.vscode/
+.DS_Store

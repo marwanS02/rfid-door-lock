@@ -1,0 +1,15 @@
+Item;Qty;Part;Notes;Link
+Arduino Mega 2560;1;ATmega2560 MCU;Main controller;https://store.arduino.cc/products/arduino-mega-2560-rev3
+MFRC522 RFID Module;1;13.56 MHz RFID reader;3.3V logic level;https://www.amazon.com/dp/B08C5HYQ2W
+IR Receiver Module;1;TSOP38238 or similar;Receives IR remote codes;
+IR Remote;1;Generic 21-key remote;Buttons CH, +, -, EQ;
+LCD I2C Display;1;20x4 I2C;Address 0x27;https://www.amazon.com/dp/B07Q96QPGG
+MAX7219 LED Matrix;1;8x8 display;Used as people counter;
+Relay Module;1;5V relay;Drives 12V solenoid;https://www.amazon.com/dp/B00VRUAHLE
+Solenoid Lock;1;12V;Door actuator;https://www.amazon.com/dp/B0748B4QHX
+Green LED;1;5mm;Access granted indicator;
+Red LED;1;5mm;Access denied indicator;
+Piezo Buzzer;1;5V buzzer;Audible feedback;
+Button;1;Momentary push button;Exit button;
+Flyback Diode;1;1N4007 or similar;Across solenoid coil;
+Power Supply;1;12V 2A;Drives solenoid + Arduino VIN;
